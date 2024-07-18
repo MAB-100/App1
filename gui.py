@@ -34,7 +34,7 @@ window = fsg.Window("TODOs App",
                     font=("Helvetica", 20))
 
 while True:
-    event , values = window.read(timeout=200)
+    event , values = window.read(timeout=500)
     window["clock"].update(time.strftime("%Y-%m-%d %H:%M:%S"))
     match event:
         case "Add":
