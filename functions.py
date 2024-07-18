@@ -17,5 +17,3 @@ def write_todos(Todos, filepath = 'todos.txt',):
             
 if __name__ == "__main__":
     print("you are running function.py directly")
-else:
-    print("you are importing functions.py")
