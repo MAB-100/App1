@@ -1,5 +1,4 @@
 Design the user interface for the homepage.
-hello test
-something
 what do you mean
 please add this to the end
+I am testing the add functionality
